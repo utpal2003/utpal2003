@@ -1,6 +1,6 @@
-<!-- Full-width banner -->
+<!-- Full-width banner with reduced height -->
 <p align="center">
-  <img src="https://github.com/utpal2003/utpal2003/blob/main/background.avif" width="100%" alt="Banner" />
+  <img src="https://github.com/utpal2003/utpal2003/blob/main/background.avif" width="100%" height="470px" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Utpal Barman</span></h1>
@@ -21,7 +21,7 @@
 
   - 🔭 Building full-stack apps with **React, Node.js, MongoDB**  
   - 🎓 Pursuing **MCA at Adamas University**  
-  - 📫 Reach me: **utpalbarman2003@gmail.com**  
+  - 📫 Reach me: **barmanutpal022@gmail.com**  
   - ⚡ Fun fact: *I code better with music 🎧 and tea ☕*
 
     </td>
