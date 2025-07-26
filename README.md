@@ -1,7 +1,7 @@
 <!-- Full-width banner with reduced height -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/utpal2003/utpal2003/blob/main/background.avif" width="100%" height="470px" alt="Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Utpal Barman</span></h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | 🎓 MCA Student | 🌱 Lifelong Learner</h3>
